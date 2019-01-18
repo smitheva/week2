@@ -1,0 +1,19 @@
+nav {
+	background: blue;
+}
+h1 {
+	background: yellow;
+	color:orange;
+	size: 20pt;
+	padding: 10%;
+	text-align: center;
+}
+a {
+	color: black;
+}
+* {
+	color:purple;
+}
+a:focus{
+	border: 1px solid;
+}
